@@ -1,7 +1,7 @@
 ## FreezingYourCredit
 Helpful instructions on freezing your credit with all three credit bureaus...
 
-Given recent data dump like the ~2.9 billion social security number record dump:
+Given recent data leaks like the ~2.9 billion social security number record dump:
 https://hackread.com/data-breach-national-public-data-records-ssns-dumped/
 
 You may wish to check if your Social security number was involved in the breach by going here: https://npd.pentester.com/ or by checking sites like 
