@@ -8,11 +8,7 @@ You may wish to check if your Social security number was involved in the breach 
 
 If it was, you might consider locking your credit with all 3 major credit bureaus, this is good practice when not using your credit anyway.
 
-The bureaus are:
-
-Experian
-Transunion
-Equifax
+The bureaus are Experian, Transunion and Equifax
 
 ### Freezing your credit by Phone
 
