@@ -4,8 +4,7 @@ Helpful instructions on freezing your credit with all three credit bureaus...
 Given recent data leaks like the ~2.9 billion social security number record dump:
 https://hackread.com/data-breach-national-public-data-records-ssns-dumped/
 
-You may wish to check if your Social security number was involved in the breach by going here: https://npd.pentester.com/ or by checking sites like 
-
+You may wish to check if your Social security number was involved in the breach by going here: https://npd.pentester.com/ 
 If it was, you might consider locking your credit with all 3 major credit bureaus, this is good practice when not using your credit anyway.
 
 The bureaus are Experian, Transunion and Equifax
