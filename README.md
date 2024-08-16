@@ -1,4 +1,4 @@
-## FreezingYourCredit
+## Freezing your credit
 Helpful instructions on freezing your credit with all three credit bureaus...
 
 Given recent data leaks like the ~2.9 billion social security number record dump:
