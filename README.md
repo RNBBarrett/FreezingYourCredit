@@ -33,7 +33,7 @@ Here are instructions for freezing your credit on all 3 sites. Beware of their a
 
 <ins> Transunion instructions </ins>
 
-1. Create a Transunion account: https://www.transunion.com/
+1. Create a Transunion account: https://www.transunion.com/credit-freeze
 2. Go to there freeze status page: https://service.transunion.com/dss/freezeStatus.page?
 3. Proceed with the instructions on screen to implement a freeze.
 
