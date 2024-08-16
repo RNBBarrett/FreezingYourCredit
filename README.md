@@ -1,2 +1,36 @@
-# FreezingYourCredit
+### FreezingYourCredit
 Helpful instructions on freezing your credit with all three creditbureaus
+
+Given recent data breaches like the ~2.9 billion social security number data 
+[breach](https://hackread.com/data-breach-national-public-data-records-ssns-dumped/)
+
+You may wish to check if your Social security number was involved in the breach by going [here](https://npd.pentester.com/)
+
+If it was, you might consider locking your credit with all 3 major credit bureaus, this is good practice when not using your credit anyway.
+
+The bureaus are:
+
+*Experian
+*Transunion
+*Equifax
+
+Here are instructions for freezing your credit on all 3 sites. Beware of their ads, they are always trying to upsell their other services.
+
+<ins> Experian instructions </ins>
+
+1. Create an Experian account: https://usa.experian.com/
+2. Login and ignore all their upsell ads.
+3. Go to their credit freeze page:  https://usa.experian.com/mfe/regulatory/security-freeze
+4. Slide the button on screen to freeze your credit
+
+Transunion instructions
+
+1. Create a Transunion account: https://www.transunion.com/
+2. Go to there freeze status page: https://service.transunion.com/dss/freezeStatus.page?
+3. Proceed with the instructions on screen to implement a freeze.
+
+Equifax instructions
+
+1. Create an Equifax account:https://my.equifax.com/ Go to login (this avoids their ads for services) and then select create an account.
+2. Their sites a bit prone to failure. If account creation using a browser fails on your computer fails, goto their site from their mobile phone, choose login and create and account (again watch out for their ads trying to upsell you). Reliability is a bit hit or miss, but its important you get all three bureaus so stick with it.
+3. Proceed with the instructions on screen, it will be obvious, look for Freeze, then select the option to freeze your credit.
