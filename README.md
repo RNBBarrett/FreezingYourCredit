@@ -10,9 +10,9 @@ If it was, you might consider locking your credit with all 3 major credit bureau
 
 The bureaus are:
 
-*Experian
-*Transunion
-*Equifax
+Experian
+Transunion
+Equifax
 
 Here are instructions for freezing your credit on all 3 sites. Beware of their ads, they are always trying to upsell their other services.
 
@@ -23,14 +23,14 @@ Here are instructions for freezing your credit on all 3 sites. Beware of their a
 3. Go to their credit freeze page:  https://usa.experian.com/mfe/regulatory/security-freeze
 4. Slide the button on screen to freeze your credit
 
-Transunion instructions
+<ins> Transunion instructions </ins>
 
 1. Create a Transunion account: https://www.transunion.com/
 2. Go to there freeze status page: https://service.transunion.com/dss/freezeStatus.page?
 3. Proceed with the instructions on screen to implement a freeze.
 
-Equifax instructions
+<ins> Equifax instructions </ins>
 
-1. Create an Equifax account:https://my.equifax.com/ Go to login (this avoids their ads for services) and then select create an account.
+1. Create an Equifax account: https://my.equifax.com/ Go to login (this avoids their ads for services) and then select create an account.
 2. Their sites a bit prone to failure. If account creation using a browser fails on your computer fails, goto their site from their mobile phone, choose login and create and account (again watch out for their ads trying to upsell you). Reliability is a bit hit or miss, but its important you get all three bureaus so stick with it.
 3. Proceed with the instructions on screen, it will be obvious, look for Freeze, then select the option to freeze your credit.
