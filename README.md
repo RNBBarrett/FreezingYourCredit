@@ -39,8 +39,8 @@ Here are instructions for freezing your credit on all 3 sites. Beware of their a
 
 <ins> Equifax instructions </ins>
 
-1. Create an Equifax account: https://my.equifax.com/ Go to login (this avoids their ads for services) and then select create an account.
-2. Their sites a bit prone to failure. If account creation using a browser fails on your computer fails, goto their site from their mobile phone, choose login and create and account (again watch out for their ads trying to upsell you). Reliability is a bit hit or miss, but its important you get all three bureaus so stick with it.
+1. Create an Equifax account: https://my.equifax.com/ Go to login (this avoids their ads for services) and then select 'Register now'. Their sites a bit prone to failure. If account creation using a browser fails on your computer, goto their site from their mobile phone.
+2. Choose login and create and account (again watch out for their ads trying to upsell you). Reliability is a bit hit or miss, but its important you get all three bureaus so stick with it.
 3. Proceed with the instructions on screen, it will be obvious, look for Freeze, then select the option to freeze your credit.
 
 Remember all three sites make money off their additional services - not that they are bad - just be careful when creating your account.
