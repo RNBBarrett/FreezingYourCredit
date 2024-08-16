@@ -1,10 +1,10 @@
 ## FreezingYourCredit
 Helpful instructions on freezing your credit with all three credit bureaus...
 
-Given recent data breaches like the ~2.9 billion social security number data 
+Given recent data dump like the ~2.9 billion social security number data dump:
 [breach](https://hackread.com/data-breach-national-public-data-records-ssns-dumped/)
 
-You may wish to check if your Social security number was involved in the breach by going here: https://npd.pentester.com/
+You may wish to check if your Social security number was involved in the breach by going here: https://npd.pentester.com/ or by checking sites like 
 
 If it was, you might consider locking your credit with all 3 major credit bureaus, this is good practice when not using your credit anyway.
 
